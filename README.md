@@ -5,6 +5,6 @@ Usage : Exploit.py X.txt
 
 The First Install : os | urllib3 | sys | re2 On Python 2.7 And Install os | urllib2 | sys | re2 on python 3
 
-
+Result Scan On Results.txt
 
 
