@@ -7,4 +7,4 @@ The First Install : os | urllib3 | sys | re2 On Python 2.7 And Install os | urll
 
 Result Scan On Results.txt
 
-
+For Installing Above Tools You Can Use easy_install-2.7.exe on python in python27\Scripts Directory
